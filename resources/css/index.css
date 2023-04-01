@@ -1,0 +1,19 @@
+body {
+    font-family: monospace;
+}
+
+.em {
+    font-size: 18px;
+}
+
+.em .p1 {
+    font-size: 1em;
+}
+
+.em .p2 {
+    font-size: 2em;
+}
+
+.em .p3 {
+    font-size: 3em;
+}
